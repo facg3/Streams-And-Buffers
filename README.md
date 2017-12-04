@@ -2,7 +2,7 @@
 - buffer is a temporary storage spot for a chunck of data that is being transferred from one place to another.
 
 - The buffer is filled with data then moved along.
--transfer small chuncks of data at a time.
+- transfer small chuncks of data at a time.
 
 - A stream is a stream of data that flows over time from one place to another.  
 
