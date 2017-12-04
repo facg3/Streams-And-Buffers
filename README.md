@@ -32,4 +32,4 @@
 - Readable stream - allow node js to read data from a stream
 - Read and Write
 
-*If we want to send the client some data, in this case it would be a writable stream becouse we'de be writing data to the stream and vice versa, if node was recieving data from somewhere like reading a file, then it would be readable stream, becouse it would be readinb data coming in the stream
+* If we want to send the client some data, in this case it would be a writable stream becouse we'de be writing data to the stream and vice versa, if node was recieving data from somewhere like reading a file, then it would be readable stream, becouse it would be reading data coming in the stream
