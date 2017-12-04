@@ -6,7 +6,7 @@
 
 ![buffer](https://scontent.fjrs2-1.fna.fbcdn.net/v/t34.0-12/24550324_10215207045671926_1297021289_n.jpg?oh=9cf23591a246e95522684d45e1ea1023&oe=5A287BBE)
 
-*We want to get al of this data from point A to B, but intead of waiting all data to be stored in memory, we transfere a little bit at a time and we fill up the buffer, and then when the buffer is full , data can be passed on and processed
+* We want to get al of this data from point A to B, but intead of waiting all data to be stored in memory, we transfere a little bit at a time and we fill up the buffer, and then when the buffer is full , data can be passed on and processed
 
 ## Stream
 - is a stream of data that flows over time from one place to another.  
@@ -14,7 +14,7 @@
 ![stream](https://scontent.fjrs2-1.fna.fbcdn.net/v/t34.0-12/24337521_10215207038591749_574930842_n.jpg?oh=11ecc1e69c23af9fc7e8a095df06b3f5&oe=5A27744B)
 
 
-*We want to get al of this data from point A to B, but intead of waiting all data to be stored in memory, we transfere a little bit at a time and we fill up the buffer, and then when the buffer is full , data can be passed on and processed
+* We want to get al of this data from point A to B, but intead of waiting all data to be stored in memory, we transfere a little bit at a time and we fill up the buffer, and then when the buffer is full , data can be passed on and processed
 - Online movies are buffers and streams in action.  
 
 ## Benefits of Streams and Buffers:
