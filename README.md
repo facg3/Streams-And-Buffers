@@ -14,8 +14,7 @@
 ![stream](https://scontent.fjrs2-1.fna.fbcdn.net/v/t34.0-12/24337521_10215207038591749_574930842_n.jpg?oh=11ecc1e69c23af9fc7e8a095df06b3f5&oe=5A27744B)
 
 
-* We want to get al of this data from point A to B, but intead of waiting all data to be stored in memory, we transfere a little bit at a time and we fill up the buffer, and then when the buffer is full , data can be passed on and processed
-- Online movies are buffers and streams in action.  
+* we have some data and we're transfereing this data, and the data flows down the stream into the buffer, which collects the chunk of data together, then when the buffer is full it passes that chunk of data down the stram to be processed and sent to the client 
 
 ## Benefits of Streams and Buffers:
   - We can start consuming data even before it arrives. We don't have to gather all of the data in memory and then consume it.
